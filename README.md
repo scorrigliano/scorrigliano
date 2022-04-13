@@ -2,7 +2,7 @@
 * Reparador de Equipamentos Eletrônicos pelo Senai Roberto Simonsen.
 * Técnico em Eletrônica pela ETE Aprígio Gonzaga.
 * Engenheiro da Computação pela Universidade São Judas Tadeu.
-* Gestor de Empresas pela Faculdade Getúlio Vargas.
+* Gestor de Empresas pela FGV em São Paulo.
 
 Sou desenvolvedor nato desde o Senai. Sempre busquei montar e criar soluções eletrônicas em casa.<br>
 Tive uma carreira sempre em ascensão, graças a Deus a ao esforço constante aplicado ao meu trabalho.<br>
